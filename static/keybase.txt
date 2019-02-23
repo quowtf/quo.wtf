@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/quo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://quo.wtf
+  * I am quo (https://keybase.io/quo) on keybase.
+  * I have a public key ASA_iPG6Y7uoGNmcVOvxfHAYxit84mHD06I2ZNw17KY8lwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b308633a1ff58380305dc3969809efa01052ade2e163ca0880022b3493ba74700a",
+      "host": "keybase.io",
+      "kid": "01203f88f1ba63bba818d99c54ebf17c7018c62b7ce261c3d3a23664dc35eca63c970a",
+      "uid": "2901529c22b10096407c167f41075619",
+      "username": "quo"
+    },
+    "merkle_root": {
+      "ctime": 1550886571,
+      "hash": "30c50514dce12ef20c5d82f47bb02ea3edffe10e5877df9f7deb51a308535c595ad06543e31ea0a40f0f2d4f64d38bbd7642f31eeb7477e4cc9007928c9c1967",
+      "hash_meta": "c3befb21ba7cd711acf086d89e5ec9815fce5d2ede6389c5013879eee090d3ce",
+      "seqno": 4814957
+    },
+    "service": {
+      "entropy": "v7qDzM7gwUsY5JYJbdHDUcmo",
+      "hostname": "quo.wtf",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1550886628,
+  "expire_in": 504576000,
+  "prev": "0ab61b2b60bc1c5b98d35b1504c93da2a1664880ff528c39dcb95a746dc76843",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgP4jxumO7qBjZnFTr8XxwGMYrfOJhw9OiNmTcNeymPJcKp3BheWxvYWTESpcCMsQgCrYbK2C8HFuY01sVBMk9oqFmSID/Uow53LladG3HaEPEIM0PkSWPrPSAm3lZG33tYRvNmQLZ4bUWExUb1hEprA6uAgHCo3NpZ8RAZA0aM+/MxhWCmncR8Tn+4V+NUEXX0R8zroH6vKDbSQgiIE1xP5wRLOgGjvfOVVtuI9BRmBBH/IBjCBJy94tWBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPpy77qIThcixpepb99H4+13QoLGKf4ugxC/gEnqL9ONo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/quo
+
+==================================================================
