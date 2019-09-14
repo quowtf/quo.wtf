@@ -29,7 +29,7 @@ googleAnalytics = "UA-134968895-1"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   themeColor = "#323641"  # Theme color in meta tags.
-  homeSubtitle = "Otro blog!"
+  homeSubtitle = "All is about tradeoffs"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # gitUrl = "https://github.com/Someone/SomeRepo/commit/" # Prefix of link to the git commit detail page. GitInfo must be enabled.
   justifyContent = false  # Set "text-align: justify" to .content, requires extended version of Hugo
