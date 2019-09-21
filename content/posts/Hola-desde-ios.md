@@ -2,6 +2,7 @@
 title: "Hola desde iOS"
 date: 2018-12-09T22:10:57-06:00
 featuredImg: ""
+type: post
 tags:
   - buena vibra
 
