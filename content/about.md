@@ -8,7 +8,7 @@ tags:
 
 
 
-Aquí Quo con otro blog.
+Aquí con otro blog.
 
 Desde siempre he disfrutado de escribir, muchas veces solo pavadas, otras: tutoriales, howtos, recomendaciones, reseñas, de todo un poco. Desde blogger, postachio, drupal, jekyll, y otras opciones, lo que fuera para tener un blog donde escribir, ahora estoy usando hugo.
 
