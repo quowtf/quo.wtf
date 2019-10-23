@@ -14,4 +14,4 @@ Aquí dejare mis notas a modo de documentación. Casi todo en español :)
 
 ## Disclaimer 2
 
-Luego de indagar y reclamarme, decidi escribir es español, mi primer intencion fue escribir en ingles, con el cuento de practicar, aprender nuevas palabras y hacer la cosa mas retadora, pero a mi me gusta entrarle tupido y con flolclor a la escrutura.
+Luego de indagar y reclamarme, decidi escribir es español, mi primer intencion fue escribir en ingles, con el cuento de practicar, aprender nuevas palabras y hacer la cosa mas retadora, pero a mi me gusta entrarle tupido y con folclor a la escritura.
