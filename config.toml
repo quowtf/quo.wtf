@@ -74,6 +74,11 @@ googleAnalytics = "UA-134968895-1"
     weight = 10
 
   [[menu.main]]
-    name = "About"
-    url = "about/"
+    name = "Disclaimer"
+    url = "disclaimer/"
+    weight = 20
+
+  [[menu.main]]
+    name = "MeNow"
+    url = "menow/"
     weight = 20
