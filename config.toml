@@ -54,17 +54,17 @@ googleAnalytics = "UA-134968895-1"
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
-  #[[params.social]]
-  #  name = "twitter"
-  #  url = "https://twitter.com/"
+[[params.social]]
+  name = "twitter"
+  url = "https://twitter.com/quowtf"
   
-  #[[params.social]]
-  #  name = "instagram"
-  #  url = "https://instagram.com/"
+[[params.social]]
+  name = "instagram"
+  url = "https://instagram.com/quowtf"
 
-  #[[params.social]]
-  #  name = "github"
-  #  url = "https://github.com/"
+[[params.social]]
+  name = "github"
+  url = "https://github.com/quowtf"
 
 [menu]
 
