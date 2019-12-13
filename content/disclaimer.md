@@ -2,8 +2,7 @@
 title: "Disclaimer"
 date: 2018-12-09T02:10:57-06:00
 featuredImg: ""
-tags: 
-
+tags:
 ---
 
 Hola, soy Rob que bueno que andas aquì.
@@ -14,4 +13,4 @@ Aquí dejare mis notas a modo de documentación. Casi todo en español :)
 
 ## Disclaimer 2
 
-Luego de indagar y reclamarme, decidi escribir es español, mi primer intencion fue escribir en ingles, con el cuento de practicar, aprender nuevas palabras y hacer la cosa mas retadora, pero a mi me gusta entrarle tupido y con folclor a la escritura.
+Luego de (indagar y reclamar)me, decidi escribir en español, mi primer intencion fue escribir en ingles, con el cuento de practicar, aprender nuevas palabras y hacer la cosa mas retadora, pero a mi me gusta entrarle tupido y con folclor a la escritura.
