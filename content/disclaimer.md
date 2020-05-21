@@ -5,6 +5,6 @@ featuredImg: ""
 tags:
 ---
 
-Aqui escribo lo que me da la gana!
+Aquí escribo lo que me da la gana!
 
 Pásele a lo barrido !!!
