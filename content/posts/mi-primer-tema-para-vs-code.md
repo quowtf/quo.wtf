@@ -6,6 +6,10 @@ tags:
   - vscode
   - theme
   - metzi
+categories:
+  - Code
+languages:
+  - es
 ---
 
 Hice un tema para vscode, venia pasandome de dark+ a swamped, luego regresaba a dark+ pero nunca contento del todo. Motivado lo que sea, y si ves los resultados de forma inmediata pues le sigues, la verdad es que fue facil, la documentacion de microsoft no es la mejor pero si sirve, tambien me ayudo mucho lo simplificado que esta el proceso para terminar instalando tu tema desde el marketplace.

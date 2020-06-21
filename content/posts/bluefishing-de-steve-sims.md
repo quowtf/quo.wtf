@@ -4,9 +4,12 @@ date: 2020-05-31T14:48:55-05:00
 toc: false
 images:
 tags:
-  - libro
   - notas
   - reading challenge 2020
+categories:
+  - Libros
+languages:
+  - es
 ---
 
 Hey! Por fin encontré un momento en el día para leer, cosas de la vida en el 20 20 🤷‍♂️...

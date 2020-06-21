@@ -6,8 +6,12 @@ toc: true
 images:
   - imagenes/maestro-cervecero.jpg
 tags:
-  - cerveza
   - notas
+categories:
+  - Libros
+  - Cerveza
+languages:
+  - es
 ---
 
 Terminado este libro es hora de ponerse a preparar cerveza.
@@ -51,5 +55,5 @@ Craft Brew.[^3]
 > "Dime y lo olvidó, enséñame y lo recuerdo, involucrarme y lo aprendo." Benjamín Franklin.
 
 [^1]: Casi la mitad del libro es sobre esto.
-[^2]: Maestro cervecero. : https://amzn.to/2wvtPmw
-[^3]: Craft Brew. : https://amzn.to/2xZ5bef
+[^2]: Maestro cervecero. : <https://amzn.to/2wvtPmw>
+[^3]: Craft Brew. : <https://amzn.to/2xZ5bef>

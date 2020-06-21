@@ -9,6 +9,10 @@ tags:
   - javascript
   - vs
   - typescript
+categories:
+  - Code
+languages:
+  - es
 ---
 
 ## Guia para programadores no-js no-ts

@@ -6,8 +6,11 @@ toc: false
 images:
   - imagenes/IMG_6789.jpg
 tags:
-  - libros
   - viktor frankl
+categories:
+  - Libros
+languages:
+  - es
 ---
 
 Este año voy a llevar registro de los libros, y aqui esta el primero. Claro la version que lei fue una del 2019, que ya lleva por titulo _El hombre en busca del sentido_ pero en su primera edicion se publicon con el nombre del titulo del post.

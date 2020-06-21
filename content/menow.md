@@ -6,7 +6,7 @@ draft: false
 
 Hola, soy Rob que bueno que andas aquì.
 
-Otro blog, si otro más. Desde blogger, postachio, drupal, jekyll, lo que fuera para tener un blog, ahora estoy usando gohugo.io.
+Otro blog, si otro más. Desde blogger, postachio, drupal, jekyll, lo que fuera para tener un blog, ahora estoy usando gohugo.io. Aquí escribo lo que me da la gana!
 
 Actualmente trabajo desarrollando software, por lo que paso mucho tiempo en la compu. Y aunque parezca que no estoy haciendo nada, ~~es lo que siempre me dicen~~, programar es un 80% introspección y 20% escribir. Que entender por introspección: buscar en google, analizar y hacer de un problema problemas más chiquitos, sobretodo copiar y pegar codigo de stackoverflow 🙂
 

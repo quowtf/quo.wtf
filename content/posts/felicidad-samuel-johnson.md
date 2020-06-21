@@ -7,6 +7,8 @@ images:
 tags:
   - citas
   - motivate
+languages:
+  - es
 ---
 
 > La felicidad no se encuentra en la contemplación de uno mismo, sólo es percibida cuando es reflejada por otro.[^1]

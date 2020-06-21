@@ -7,7 +7,10 @@ images:
 tags:
   - filosofia
   - William J. Rapaport
-  - libros
+categories:
+  - Libros
+languages:
+  - es
 ---
 
 Este es un recopilado de notas del libro Philosophy of Computer Science[^1] altemante recomendado.
@@ -16,7 +19,7 @@ El capitulo uno me lo salto, si lo leí, solo me exploto la cabeza, dos veces...
 
 En el principio... ¿Fue la luz? Luego todo lo demás ¿no?, hasta llegar a la filosofia y depues a la filosofia computacional... !Oh vaya!
 
-## Capitulo 2: ¿Que es filosofia?
+## Capitulo 2: ¿Que es filosofia
 
 > “Two years!” said Dante`s. “Do you think I could learn all this in two years?”
 >
@@ -42,6 +45,6 @@ El autor nos deja las siguientes preguntas:
 
 🤯
 
-[^1]: El libro lo pueden encontrar aqui: http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf
+[^1]: El libro lo pueden encontrar aqui: <http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf>
 [^2]: Alexandre Dumas (1844, The Count of Monte Cristo, Ch. 17, pp. 168–169)
 [^3]: The personal search for truth, in any field, by rational means.
