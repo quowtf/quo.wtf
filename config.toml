@@ -42,3 +42,6 @@ theme = "diurnus"
     name = "MeNow"
     url = "menow/"
     weight = 20
+
+[markup.goldmark.renderer]
+  unsafe= true
