@@ -12,7 +12,7 @@ languages:
 images:
   -
 paragraphs:
-  - 'Magical and powerful: Mezcal is the best liquid soul of Mexico, and this is a story on how Ron Cooper deal to make Mezcal, a gringo living in the hearth of making Mezcal.'
+  - 'Magical and powerful: Mezcal is the best spirituous liquid of Mexico, and this is a story on how Ron Cooper deal to make Mezcal, a gringo living in the hearth of making Mezcal.'
 ---
 
 
