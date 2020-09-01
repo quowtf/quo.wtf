@@ -3,7 +3,7 @@ title: "Finding Mezcal By  Ron Cooper"
 date: 2020-07-03T21:06:47-05:00
 tags:
   - notas
-  - reading challenge 2020
+  - leidos 2020
 categories:
   - Mezcal
   - Libros
