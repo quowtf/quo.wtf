@@ -16,4 +16,8 @@ O en latin si lo prefieres:
 
 > _Quid pro quo_.
 
+## Descargo de responsabilidad
+
+Todo el contenido aqui publicado es un punto de vista personal, no se garantiza nada y tomen en cuenta que estoy loco. Luego, no quiero que me esten chingando. Mas sin enmbargo, invito a todos a dar su opinion y generar discusion. Para enriquecer nuestro ser.
+
 Salud 🍻
