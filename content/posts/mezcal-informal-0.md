@@ -18,7 +18,7 @@ paragraphs:
   Agave: Tepeztate.
 ```
 
-Delisioso Mezcal, en particular el tepextate tiene un sabor picoso.
+Delisioso Mezcal, en particular el tepeztate tiene un sabor picoso.
 
 En particular aqui predomina el alcohol, con 45%.
 
