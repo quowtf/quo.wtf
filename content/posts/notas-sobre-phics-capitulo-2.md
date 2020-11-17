@@ -5,8 +5,6 @@ draft: false
 toc: true
 images:
 tags:
-  - filosofia
-  - William J. Rapaport
 categories:
   - Libros
 languages:

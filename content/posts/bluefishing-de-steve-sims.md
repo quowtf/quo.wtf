@@ -4,7 +4,7 @@ date: 2020-05-31T14:48:55-05:00
 toc: false
 images:
 tags:
-  - notas
+  - motivate
   - leidos 2020
 categories:
   - Libros
