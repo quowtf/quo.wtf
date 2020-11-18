@@ -4,7 +4,6 @@ date: 2020-05-01T22:59:26-05:00
 images:
 tags:
   - vscode
-  - theme
   - metzi
 categories:
   - Code

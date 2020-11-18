@@ -3,7 +3,6 @@ title: "Basicos Swift 5"
 date: 2020-07-11T13:13:28-05:00
 tags:
   - switf
-  - switf5
 categories:
   - Code
 languages:

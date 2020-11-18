@@ -5,7 +5,6 @@ tags:
   - minimalismo
   - motivate
   - leidos 2020
-  - filosofia
 categories:
   - Libros
 languages:
