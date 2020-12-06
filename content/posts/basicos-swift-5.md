@@ -10,10 +10,10 @@ languages:
 images:
   -
 paragraphs:
-  - Swift promete ser repido, seguro y expresivo, aun que es un lenguaje de proposito general, es mejor conocido como el lenguaje moderno que debes aprender para desarrollar applicaciones en el ecosistemas de la familia-Manzana.
+  - Swift promete ser rapido, seguro y expresivo, aunque es un lenguaje de proposito general, es mejor conocido como el lenguaje moderno que debes aprender para desarrollar applicaciones en el ecosistemas de la familia-Manzana.
 ---
 
-Aquí mis notas 😜
+Ley un poco de la documentacion y de primera entrada tiene conceptos que no se ven en todos lados a todas horas, algunos no los entendi del todo, eso los vuelve mas interesantes para mi, tanto los conceptos como el lenguaje en si. Aquí mis notas 😜
 
 - Swift es un lenguaje de tipado-seguro
 
