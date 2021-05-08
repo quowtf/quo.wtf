@@ -18,14 +18,16 @@ theme = "diurnus"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   homeSubtitle = "quid pro quo"
+  plausibleDomain = "quo.wtf"
+  plausibleSrc = "https://plausible.quo.wtf/js/index.js"
 
 [[params.social]]
   name = "twitter"
   url = "https://twitter.com/quowtf"
 
 [[params.social]]
-  name = "vsco"
-  url = "https://vsco.co/quowtf"
+  name = "instagram"
+  url = "https://instagram.com/quowtf"
 
 [[params.social]]
   name = "github"
