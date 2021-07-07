@@ -5,6 +5,7 @@ tags:
   - layout
   - sirenato
   - v1
+  - v2
 categories:
   - Teclados
 languages:
@@ -92,6 +93,29 @@ Cortar no esta de moda, por eso se va al meñique.
 Se ve una bien en proporción, 51.34% para la mano izquierda y un 51.02% para la mano derecha.
 
 A estas alturas cualquier cambio es un juego de quitar y poner, y ustedes que creían que esto se llama _quid pro quo_ nomas por que si... Si es tan básico.
+
+## Actualisacion 6 Julio
+
+¿Muy rapido para una versión 2? No lo creo...
+
+{{< figure src="/imagenes/sirenato/v2.png" alt="Distribución para teclado SIRENATO" caption="Distribución para teclado SIRENATO">}}
+
+La columna en rojo son las posibles coincidencias de usar el mismo dedo, segun mi logica la _U_ y la _Y_ nunca se usan juntas jajaja. ¿Cual fue la primer palabra con que inicie el parrafo anterior?
+
+¿Mejora mucho? No lo se...
+
+Tengo dos espacios en blanco, eso si es emocionante.
+
+```c
+[_QWERTY] = LAYOUT(
+    KC_TAB,   KC_Q,   KC_L,   KC_O,   KC_C,   XXXXXXX,         XXXXXXX,   KC_D,   KC_I,   KC_P,   KC_K,  KC_BSPC,
+    MOUSE,    KC_B,   KC_R,   KC_E,   KC_S,   KC_X,               KC_H,   KC_N,   KC_A,   KC_T,   KC_U,  KC_RALT,
+    KC_LCTL,  KC_Z,   KC_M,   KC_DOT, KC_V,   KC_W,               KC_G,   KC_J,   KC_COMM,KC_F,   KC_Y,   KC_ESC,
+  //|------------------------------------------------------------------------------------------------------------|
+                                KC_LGUI, LOWER,   KC_ENT,/* */KC_SPC,  LT(_RAISE, KC_RALT), KC_RSFT
+  ),
+
+```
 
 [^1]: [Arensito](http://pvv.org/~hakonhal/main.cgi/keyboard/)
 [^2]: Investigación de un día. Si la cago fue por que solo le invertí un día
