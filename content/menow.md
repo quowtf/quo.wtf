@@ -18,6 +18,8 @@ O en latin si lo prefieres:
 
 ## Descargo de responsabilidad
 
-Todo el contenido aqui publicado es un punto de vista personal, no se garantiza nada. Luego no quiero que me esten chingando. Mas sin enmbargo, invito a todos a dar su opinion y generar discusion. Para enriquecer nuestro ser.
+Todo el contenido aqui publicado es un punto de vista personal, no se garantiza nada. Luego no quiero que me esten chingando 😜. Sin enmbargo, invito a todos a dar su opinion y generar discusion 🤔. Para enriquecer nuestro ser 🧘‍♂️.
 
 Salud 🍻
+
+Pd. Si, me gustan los emojis 🖖

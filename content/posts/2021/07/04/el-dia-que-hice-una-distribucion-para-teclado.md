@@ -137,5 +137,5 @@ Versión **2.1.0**
 ```
 
 [^1]: [Arensito](http://pvv.org/~hakonhal/main.cgi/keyboard/)
-[^2]: Investigación de un día. Si la cago fue por que solo le invertí un día
+[^2]: Investigación de un día, unas horas mejor dicho 😜
 [^3]: [some permutation of arensito. The layout found by trial and error](http://pvv.org/~hakonhal/main.cgi/keyboard/arensito_devel/)
