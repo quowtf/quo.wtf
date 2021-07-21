@@ -3,7 +3,6 @@ title: "El Día Que Hice Una Distribución Para Teclado"
 date: 2021-07-04T19:15:49-05:00
 tags:
   - layout
-  - sirenato
   - v1
   - v2
 categories:
@@ -52,7 +51,7 @@ Fin de la justificación.
 
 Arensito tiene muy buena posición para el dedo índice, incluso logra darle el peso de "solo" 5 caracteres, pero después llena esos espacios. Los meñiques también quedan muy sueltitos.
 
-Con sirenato tampoco quería usar el mismo dedo para dos pisadas consecutivos.
+Con esta distribución tampoco quería usar el mismo dedo para dos pisadas consecutivos.
 
 ## La DATA
 
@@ -80,9 +79,9 @@ Bueno, con 14 palabras por minuto, unas horas de estar escribiendo y otras mas d
 
 {{< figure src="/imagenes/sirenato/14wpm.png" alt="Grafica que muestra lo veloz que escribo con la nueva distribución" caption="14 palabras por minuto">}}
 
-En algún momento se me acabo la ~~imaginación~~ justificación para darle un lugar a cada carácter, y el español parece tener mayores retos que al acomodar los mismos caracteres solo para ingles. No tengo una firma bonita de presentarles la distribución, les dejo el excel y el archivo con que compilo el firmware de mi teclado: Sirenato Layout.
+En algún momento se me acabo la ~~imaginación~~ justificación para darle un lugar a cada carácter, y el español parece tener mayores retos que al acomodar los mismos caracteres solo para ingles. No tengo una firma bonita de presentarles la distribución, les dejo el excel y el archivo con que compilo el firmware de mi teclado: QUOWTF Layout.
 
-{{< figure src="/imagenes/sirenato/sirenato.png" alt="Distribución para teclado SIRENATO" caption="Distribución para teclado SIRENATO">}}
+{{< figure src="/imagenes/sirenato/sirenato.png" alt="Distribución para teclado QUOWTF" caption="Distribución para teclado QUOWTF">}}
 
 ## Conclusión
 
@@ -98,7 +97,7 @@ A estas alturas cualquier cambio es un juego de quitar y poner, y ustedes que cr
 
 ¿Muy rapido para una versión 2? No lo creo...
 
-{{< figure src="/imagenes/sirenato/v2.png" alt="Distribución para teclado SIRENATO" caption="Distribución para teclado SIRENATO">}}
+{{< figure src="/imagenes/sirenato/v2.png" alt="Distribución para teclado QUOWTF" caption="Distribución para teclado QUOWTF">}}
 
 La columna en rojo son las posibles coincidencias de usar el mismo dedo, segun mi logica la _U_ y la _Y_ nunca se usan juntas jajaja. ¿Cual fue la primer palabra con que inicie el parrafo anterior?
 
@@ -130,6 +129,26 @@ Versión **2.1.0**
   //|------------------------------------------------------------------------------------------------------------|
     
     KC_LCTL,  KC_G,   KC_M,   KC_DOT, KC_V,   KC_W,               KC_Y,   KC_J,   KC_COMM,KC_F,   KC_Z,   KC_ESC,
+  //|------------------------------------------------------------------------------------------------------------|
+
+                                KC_LGUI, LOWER,   KC_ENT,/* */KC_SPC,  LT(_RAISE, KC_RALT), KC_RSFT
+  ),
+```
+
+## Versión **2.1.1**
+
+Un ligero cambio, creo que la `F` debe estar en la mano izquierda (más que la `Z`, si).
+Tambien separe la `D` de la `N`, para palabras como `end` no ayudaba.
+
+```c
+  [_QUOWTF] = LAYOUT(
+    KC_TAB,   KC_Q,   KC_L,   KC_O,   KC_C,   KC_SCLN,         KC_QUOT,   KC_B,   KC_I,   KC_P,   KC_K,  KC_BSPC,
+  //|------------------------------------------------------------------------------------------------------------|
+
+    MOUSE,    KC_F,   KC_R,   KC_E,   KC_S,   KC_X,               KC_H,   KC_N,   KC_A,   KC_T,   KC_U,  KC_RALT,
+  //|----------------------------------------------------------------------------------------------------------|
+    
+    KC_LCTL,  KC_G,   KC_M,   KC_DOT, KC_V,   KC_W,               KC_Y,   KC_J,   KC_COMM,KC_D,   KC_Z,   KC_ESC,
   //|------------------------------------------------------------------------------------------------------------|
 
                                 KC_LGUI, LOWER,   KC_ENT,/* */KC_SPC,  LT(_RAISE, KC_RALT), KC_RSFT
