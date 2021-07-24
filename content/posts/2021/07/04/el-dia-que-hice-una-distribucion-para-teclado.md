@@ -155,6 +155,24 @@ Tambien separe la `D` de la `N`, para palabras como `end` no ayudaba.
   ),
 ```
 
+## Versión **2.2.0**
+
+Uops! Ese `BY` se me fue en la version anterior 😜
+
+```c
+  [_QUOWTF] = LAYOUT(
+    KC_TAB,   KC_B,   KC_L,   KC_O,   KC_V,   KC_SCLN,         KC_QUOT,   KC_Y,   KC_I,   KC_D,   KC_K,  KC_BSPC,
+  //|------------------------------------------------------------------------------------------------------------|
+
+    MOUSE,    KC_F,   KC_R,   KC_E,   KC_S,   KC_X,               KC_Q,   KC_N,   KC_A,   KC_T,   KC_U,  KC_RALT,
+  //|------------------------------------------------------------------------------------------------------------|
+    
+    KC_LCTL,  KC_G,   KC_M,   KC_DOT, KC_C,   KC_W,               KC_J,   KC_H,   KC_COMM,KC_P,   KC_Z,   KC_ESC,
+  //|------------------------------------------------------------------------------------------------------------|
+                                KC_LGUI, LOWER,   KC_ENT,/* */KC_SPC,  LT(_RAISE, KC_RALT), KC_RSFT
+  ),
+```
+
 [^1]: [Arensito](http://pvv.org/~hakonhal/main.cgi/keyboard/)
 [^2]: Investigación de un día, unas horas mejor dicho 😜
 [^3]: [some permutation of arensito. The layout found by trial and error](http://pvv.org/~hakonhal/main.cgi/keyboard/arensito_devel/)
