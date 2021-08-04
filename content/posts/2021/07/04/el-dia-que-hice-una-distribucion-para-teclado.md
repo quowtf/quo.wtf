@@ -173,6 +173,26 @@ Uops! Ese `BY` se me fue en la version anterior 😜
   ),
 ```
 
+## Versión **2.2.1**
+
+Aun tiene varias colisiones, pero me divierte mucho usar este layout.
+La palabra con mas colisiones hasta el momento es `T-E-O-R-I-A`. Se las dejo de tarea 🥲.
+Ya llegue a las 30 palabras por minuto, con todo y los diversos (y radicales) cambios.
+
+```c
+  [_QUOWTF] = LAYOUT(
+    KC_TAB,   KC_Y,   KC_L,   KC_O,   KC_V,   KC_SCLN,         KC_QUOT,   KC_B,   KC_I,   KC_D,   KC_K,  KC_BSPC,
+  //|------------------------------------------------------------------------------------------------------------|
+
+    MOUSE,    KC_F,   KC_R,   KC_E,   KC_S,   KC_W,               KC_Q,   KC_N,   KC_A,   KC_T,   KC_U,  KC_RALT,
+  //|------------------------------------------------------------------------------------------------------------|
+    
+    KC_LCTL,  KC_G,   KC_M,   KC_DOT, KC_C,   KC_X,               KC_J,   KC_H,   KC_COMM,KC_P,   KC_Z,   KC_ESC,
+  //|------------------------------------------------------------------------------------------------------------|
+                                KC_LGUI, LOWER,   KC_ENT,/* */KC_SPC,  LT(_RAISE, KC_RALT), KC_RSFT
+  ),
+```
+
 [^1]: [Arensito](http://pvv.org/~hakonhal/main.cgi/keyboard/)
 [^2]: Investigación de un día, unas horas mejor dicho 😜
 [^3]: [some permutation of arensito. The layout found by trial and error](http://pvv.org/~hakonhal/main.cgi/keyboard/arensito_devel/)
