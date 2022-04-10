@@ -176,7 +176,7 @@ Uops! Ese `BY` se me fue en la version anterior 😜
 ## Versión **2.2.1**
 
 Aun tiene varias colisiones, pero me divierte mucho usar este layout.
-La palabra con mas colisiones hasta el momento es `T-E-O-R-I-A`. Se las dejo de tarea 🥲.
+La palabra con más colisiones hasta el momento es `T-E-O-R-I-A`. Se las dejo de tarea 🥲.
 Ya llegue a las 30 palabras por minuto, con todo y los diversos (y radicales) cambios.
 
 ```c

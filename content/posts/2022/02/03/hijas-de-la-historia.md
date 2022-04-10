@@ -22,7 +22,7 @@ Hombres necios, que chingan por todo...
 
 ## ¿Dificultad del libro?
 
-Fácil de seguir, cada bibliografía de mantiene atento 🤓.
+Fácil de seguir, cada bibliografía te mantiene atento 🤓.
 
 Como punto bibliográfico es un buen libro, como libro de historia obviamente no puede abarcar todo en 300 paginas.
 
