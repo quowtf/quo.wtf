@@ -6,7 +6,7 @@ tags:
   - vscode
   - metzi
 categories:
-  - Code
+  - Engineer
 languages:
   - es
 ---

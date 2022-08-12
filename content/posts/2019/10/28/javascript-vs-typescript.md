@@ -10,7 +10,7 @@ tags:
   - vs
   - typescript
 categories:
-  - Code
+  - Engineer
 languages:
   - es
 ---
