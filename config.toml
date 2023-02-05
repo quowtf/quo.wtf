@@ -4,6 +4,9 @@ defaultContentLanguage = "en"
 title = "quo.wtf"
 theme = "diurnus"
 
+[permalinks]
+  posts = '/:year/:month/:day/:title'
+
 [author]
   name = "RE"
 
