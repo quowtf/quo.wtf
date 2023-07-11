@@ -2,15 +2,14 @@
 title: "Hola desde iOS"
 date: 2018-12-09T22:10:57-06:00
 tags:
-  - buena vibra
+  - hola mundo
 languages:
   - es
 ---
 
-Este post fue completamente agregado desde mi teléfono.
+Este post fue creado completamente desde mi teléfono.
 
-La edición desde notas, el commit desde duckduckgo. Y el deploy con shortcuts
+La edición se hizo desde notas, el commit desde DuckDuckGo y el deploy con Shortcuts.
 
-Y es fantástico!!!
-
+¡Y es fantástico!
 🍻

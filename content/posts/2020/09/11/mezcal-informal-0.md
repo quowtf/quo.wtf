@@ -10,7 +10,7 @@ languages:
 images:
   - imagenes/mezcal/0.jpg
 paragraphs:
-  - Escribir esto despues de la tercer servida es magico... He empezado una aficion por esta bebida, mejor dicho hace tiempo empece... Mezcal informal sera es una serie de posts donde intentare de la mejor forma posible, sobretodo despues de varias copitas, detallar algun mezcal.
+ - Escribir esto después de la tercer servida es mágico... He empezado una afición por esta bebida, mejor dicho, hace tiempo empecé... Mezcal informal será una serie de posts donde intentaré, de la mejor forma posible, sobretodo después de varias copitas, detallar algún mezcal.
 ---
 
 ```none
@@ -18,12 +18,12 @@ paragraphs:
   Agave: Tepeztate.
 ```
 
-Delisioso Mezcal, en particular el tepeztate tiene un sabor picoso.
+Delicioso Mezcal, en particular el tepeztate tiene un sabor picoso.
 
-En particular aqui predomina el alcohol, con 45%.
+En particular, aquí predomina el alcohol, con un 45%.
 
-Al inicio me parece muy fresco, pero con final muy seco.
+Al inicio me parece muy fresco, pero con un final muy seco.
 
-Con la primer servida ya sientes como tus ojos empiezan a relajarse 🙂
+Con la primera servida ya sientes cómo tus ojos empiezan a relajarse 🙂
 
-Salud!!!
+¡¡¡Salud!!!

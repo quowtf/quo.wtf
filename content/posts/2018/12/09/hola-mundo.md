@@ -3,7 +3,7 @@ title: "Hola Mundo"
 date: 2018-12-09T02:10:57-06:00
 featuredImg: ""
 tags: 
-  - buena vibra
+  - hola mundo
   - v2
 categories:
  - 
@@ -13,12 +13,12 @@ languages:
 
 Hola, obra en construcción.
 
-## Actualizacion para la v2
+## Actualización para la v2
 
-Ahora si, una introduccion:
+¡Ahora sí, una introducción!
 
-En el mundo de la programacion, de los primeros ejercicios casi siempre esta escribir el famoso "Hola Mundo", un programita que solo tiene que mostrar en pantalla una frase: "Hola Mundo!" adivinaste!
+En el mundo de la programación, uno de los primeros ejercicios suele ser escribir el famoso "Hola Mundo", un programa que simplemente muestra en pantalla la frase: "¡Hola Mundo!"
 
-Asi que me dedique un rato a levantar un blog y esto que ves es el resultado.
+Así que me dediqué un rato a crear un blog y lo que estás viendo es el resultado.
 
-Mi nombre es Roberto Esteban escribo por gusto y no creo que la palabra nerd sea pellorativa sino todo lo contrario. 🍻
+Mi nombre es Rob, escribo por gusto y no creo que la palabra "nerd" sea peyorativa, sino todo lo contrario. ¡Salud! 🍻

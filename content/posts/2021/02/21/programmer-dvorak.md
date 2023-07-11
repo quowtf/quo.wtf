@@ -10,18 +10,18 @@ languages:
 images:
   - imagenes/dvorak.jpg
 paragraphs:
-  - "La vida ya es demasiado aleatoria como para escribir en un teclado con distribución :<>PY" 
+  - 'La vida ya es demasiado aleatoria como para escribir en un teclado con distribución :<>PY.'
 ---
 
-El teclado, y principalmente la distribución QWERTY, fue diseñada sin diseño. En otras palabras QWERTY fue resultado del azar, la posición se decidió aleatoriamente. Aunque QWERTY no es mala, tampoco es la mejor justificada.
+El teclado, y principalmente la distribución QWERTY, fue diseñada sin pensar. En otras palabras, QWERTY fue resultado del azar, la posición se decidió aleatoriamente. Aunque QWERTY no es mala, tampoco está justificada de la mejor manera.
 
 ## Y por eso...
 
-Me mudo a distribución Dvorak, en su derivación para programador. Así que este post lo escribo a tientas y con mucha cautela, sin mirar el teclado pero con mucha lentitud...
+Me cambio a la distribución Dvorak, en su variante para programadores. Así que este post lo escribo a tientas y con mucha cautela, sin mirar el teclado pero con mucha lentitud...
 
 ## El porqué
 
-Vivo de la programación, jaja!
+¡Vivo de la programación, jaja!
 
 ## Fin
 

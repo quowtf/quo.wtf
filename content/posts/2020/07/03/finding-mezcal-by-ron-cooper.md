@@ -17,37 +17,37 @@ paragraphs:
 
 ## Top 3 takeaways
 
-- You dont find mezcal, mezcal finds you
-- Your passion should conquer or influence your work
-- Para todo mal mezcal, para todo bien, tambien
+- You don't find mezcal, mezcal finds you.
+- Your passion should conquer or influence your work.
+- Para todo mal mezcal, para todo bien, también.
 
 ## Difficulty/complexity level: 4
 
 ### What makes this book that complex?
 
-Come with some jargon in both languages, Spanish and English, some context of Mexican slang could be misinterpreted. And vice-versa.
+It includes some jargon in both languages, Spanish and English. Some context of Mexican slang could be misinterpreted, and vice versa.
 
 ## Overall quality/satisfaction from 1 to 10: 8️
 
 ### Why?
 
-I want a book that let me know more about Mezcal, not stories from a man on how Mezcal found him...
+I wanted a book that would let me know more about Mezcal, not stories from a man on how Mezcal found him...
 
 ## Who is the intended audience?
 
-Anyone whos called: borracho, and anyone who wanna know where Mezcal comes from, meet people who made it, how is it made, and how complex is this magic liquid.
+Anyone who's called "borracho" and anyone who wants to know where Mezcal comes from, meet the people who make it, how it is made, and how complex this magic liquid is.
 
 ## Top 3 positive points
 
-- Singular narrative
-- Useful if you don't know nothing about Mezcal
-- Great list of cocktails
+- Singular narrative.
+- Useful if you don't know anything about Mezcal.
+- Great list of cocktails.
 
 ## Top 3 negative points
 
 - I feel like reading the history of Cristobal Colon again, but without deaths, at least not intentionally.
-- I feel sad or disappointed by reading this and realize that we (Mexicans) cannot help others than ourselves.
-- I don't even know all the required ingredients for all these cocktails
+- I feel sad or disappointed after reading this and realizing that we (Mexicans) cannot help others more than ourselves.
+- I don't even know all the required ingredients for all these cocktails.
 
 ## Finally from 1 to 5 stars
 
@@ -75,8 +75,8 @@ Anyone whos called: borracho, and anyone who wanna know where Mezcal comes from,
 
 ### About difficulty/complexity measure
 
-From 1 to 10, one is not complicated, easy to read, and ten is the complex ever book.
+From 1 to 10, one is not complicated, easy to read, and ten is the most complex book ever.
 
 ### About quality/satisfaction measure
 
-One means low quality, poor satisfaction, ten is the highest satisfaction you could get from a book.
+One means low quality, poor satisfaction, and ten is the highest satisfaction you could get from a book.

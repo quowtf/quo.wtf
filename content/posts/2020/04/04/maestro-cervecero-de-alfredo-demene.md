@@ -19,7 +19,7 @@ Terminado este libro es hora de ponerse a preparar cerveza.
 
 ## Sobre el libro
 
-El libro me gusto, intente leer otro sobre el mismo tema y la verdad no me atrapo, este libro empieza con la historia, tomando las teorías e investigaciones que se tienen sobre el origen e inicio de la cerveza, así que te da mucho contexto, que quizás para el experto o el que ya se dedico a leer un montón sobre la cerveza en wikipedia le sera repetitivo.
+El libro me gustó, intenté leer otro sobre el mismo tema y la verdad no me atrapó. Este libro empieza con la historia, tomando las teorías e investigaciones que se tienen sobre el origen e inicio de la cerveza, así que te da mucho contexto, que quizás para el experto o el que ya se dedicó a leer un montón sobre la cerveza en Wikipedia le será repetitivo.
 
 Para no hacer mucho spoiler sobre el libro, nos pasamos a la parte donde nos guía con detalle en el proceso de cómo hacer cerveza[^1], se divide en 3 secciones: los insumos o ingredientes, el equipo que se ocupa y el proceso.
 
@@ -37,15 +37,15 @@ Hervir agua, mezclar con malta para obtener el mosto, reposar el mosto, hervir e
 
 Esta no es una guía, claro esta, pero son los pasos generales para hacer cerveza.
 
-Esta claro que podemos resumir mucho los ingredientes y el equipo involucrado para hacer cerveza, ahora en cuanto al proceso el autor insiste mucho más en ser meticuloso, al cocinar los resultados no siempre son buenos, sobre todo las primeras veces que lo intentamos, pero sea cual sea el resultado la siguiente vez que lo buscas es mejorar o perfeccionar, se vuelve un reto.
+Está claro que podemos resumir mucho los ingredientes y el equipo involucrado para hacer cerveza, ahora en cuanto al proceso el autor insiste mucho más en ser meticuloso, al cocinar los resultados no siempre son buenos, sobre todo las primeras veces que lo intentamos, pero sea cual sea el resultado la siguiente vez que lo buscas es mejorar o perfeccionar, se vuelve un reto
 
 ## Mi experiencia haciendo cerveza
 
-Después de hervir el mosto llega el punto critico, porque no debe entrar en contacto con ninguna bacteria u organismo que pueda contaminar el mosto, ya que los azucares que se generaron al hervir tienen una linea muy delgada entre fermentar o descomponerse (echarse a perder)... El proceso químico es más complejo claro esta.
+Después de hervir el mosto llega el punto crítico, porque no debe entrar en contacto con ninguna bacteria u organismo que pueda contaminar el mosto, ya que los azúcares que se generaron al hervir tienen una línea muy delgada entre fermentar o descomponerse (echarse a perder)... El proceso químico es más complejo, claro está.
 
-Si todo salió bien y tu cerveza no se contamino no hay forma casera exacta de saberlo, asi que solo queda esperar entre 7 o 14 dias a que la fermentación se de, para ayudar a la fermentación es bueno agregar levadura, pero aun asi, no garantiza que se de correctamente.
+Si todo salió bien y tu cerveza no se contaminó no hay forma casera exacta de saberlo, así que solo queda esperar entre 7 o 14 días a que la fermentación se dé, para ayudar a la fermentación es bueno agregar levadura, pero aun así, no garantiza que se dé correctamente.
 
-Ahora solo me queda esperar... 7 dias, y depues otros 7.
+Ahora solo me queda esperar... 7 días, y después otros 7.
 
 ## Libros para aprender a hacer cerveza
 

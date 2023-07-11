@@ -13,16 +13,16 @@ languages:
   - es
 ---
 
-Este año voy a llevar registro de los libros, y aqui esta el primero. Claro la version que lei fue una del 2019, que ya lleva por titulo _El hombre en busca del sentido_ pero en su primera edicion se publicon con el nombre del titulo del post.
+Este año voy a llevar un registro de los libros, y aquí está el primero. Claro, la versión que leí fue una del 2019, que ya lleva por título _El hombre en busca de sentido_, pero en su primera edición se publicó con el nombre mencionado en el post.
 
-Frank es un psicologo que sobrevive a los campos de concentracion nazis, relata su estancia y la analiza como humano, como persona y como psicologo, este libro vale mucho la pena.
+Frank es un psicólogo que sobrevive a los campos de concentración nazis, relata su experiencia y la analiza desde la perspectiva humana, personal y profesional. Este libro realmente vale la pena.
 
-Por casualidad, suerte o asar llegue a este libro (~~una oferta relampago y una compra compulsiva~~) y ahora que lo termine sin duda estara en mi top 3 de este año.
+Por casualidad, suerte o azar llegué a este libro (una oferta relámpago y una compra compulsiva) y ahora que lo terminé, sin duda estará en mi top 3 de este año.
 
 ## En las buenas y en las peores
 
-> Frank deja claro que el ser humano es responsable de sus decisiones y que aun en la peor situacion se decide como actuar.
+> Frank deja claro que el ser humano es responsable de sus decisiones y que incluso en la peor situación, decide cómo actuar.
 
 ## El sentido de la vida
 
-> Un ser humano se aferra a la vida siempre y cuando le encuentre un sentido. O alguien se lo haga ver...
+> Un ser humano se aferra a la vida siempre y cuando encuentre un sentido en ella. O alguien se lo haga ver...

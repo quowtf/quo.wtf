@@ -10,54 +10,55 @@ languages:
 images:
   - imagenes/breath/83221339.png
 paragraphs:
-  - Sigo sorprendido de cuanto se puede ganar haciendo algo que tenemos que hacer si o si. Con solo respirar, pero respirar bien; podemos ganar salud y elongar, lo segundo esta puesto en duda.
+  - Sigo sorprendido de cuánto se puede ganar al hacer algo que tenemos que hacer sí o sí. Con solo respirar, pero respirar bien, podemos ganar salud y alargar nuestra vida, aunque lo segundo esté sujeto a debate.
 ---
-El publico al que este libro puede/debe ir dirigido es al publico que respire, así de fácil, punto.
+El público al que este libro puede y debe dirigirse es al público en general, ¡a todas las personas que respiran, así de fácil!
 
-Un libro fácil de leer, seguir al autor en su travesía explorando técnicas de respiración, donde él redacta estas técnicas y a su vez se somete a experimentos para entender mejor como respiramos, le da un ligero twist al libro.
+Es un libro fácil de leer, donde el autor narra su travesía explorando técnicas de respiración. A medida que redacta estas técnicas, también se somete a experimentos para comprender mejor cómo respiramos, lo cual le da un ligero giro al libro.
 
 {{< figure src="/imagenes/breath/82552789.png" alt="del libro pagina 26: Finding the best heart rate for exercise is easy: subtract your age from 180. The result is the maximum your body can withstand to staying the aerobic state. Long bouts of training and exercise can happen below this rate but never above it, otherwise the body will risk going too deep into the anaerobic zone for too long. Instead of feeling invigorated and strong after a workout, you'd feel tired, shaky, and nauseated." >}}
 
 ## Lado izquierdo, lado derecho
 
-Respirar por la fosa nasal derecha provee de mayor flujo sanguíneo del hemisferio cerebral del lado opuesto. Mientras que respirar por la fosa izquierda tiene el efecto contrario. Cada hemisferio tiene sus responsabilidades, por ejemplo la parte lógica del lado izquierdo o la parte creativa que le responde al lado derecho.
+Respirar por la fosa nasal derecha proporciona un mayor flujo sanguíneo al hemisferio cerebral del lado opuesto, mientras que respirar por la fosa nasal izquierda tiene el efecto contrario. Cada hemisferio cerebral tiene sus responsabilidades, como la parte lógica en el lado izquierdo o la parte creativa que responde al lado derecho.
 
-Aquí un  super-hack, el libro proponen hacer respiraciones por solo una fosa e ir alternando:
+Aquí tienes un súper hack del libro: hacer respiraciones alternando entre una y otra fosa nasal. Para hacerlo, coloca el dedo índice en la punta de la nariz y utiliza el dedo medio para presionar y cerrar el paso de aire por la fosa nasal derecha. Luego, utiliza el pulgar para cerrar la fosa nasal izquierda. De esta manera, vas alternando la respiración entre las dos fosas nasales.
 
-1. Dejar libre la fosa izquierda, tapar la derecha. Inhalar.
-2. Cerrar ambas fosas un segundo.
-3. Exhalar por la fosa derecha, mientras la izquierda queda tapada.
-4. Cerrar ambas fosas un segundo.
-5. Inhalar por la fosa derecha, fosa izquierda se mantiene cerrada.
-6. Cerrar ambas fosas un segundo.
-7. Exhalar por la fosa izquierda, lado derecho queda cerrado.
+1. Deja libre la fosa nasal izquierda y tapa la derecha. Inhala.
+2. Cierra ambas fosas nasales durante un segundo.
+3. Manten el lado izquierdo cerrado, abre el lado derecho, exhala.
+4. Cierra ambas fosas nasales durante un segundo.
+5. Manten el lado derecho cerrado, inhala por la fosa nasal izquierda.
+6. Cierra ambas fosas nasales durante un segundo.
+7. Manten el lado izquierdo cerrado, exhala por la fosa nasal derecha.
 
-Repetir los pasos por 5 minutos, lo recomiendan antes de dormir y antes de tener alguna evento resolutivo. Ya que nos provee de un balance en los hemisferios cerebrales, tendríamos un pensamiento mas claro y una toma de decisiones más efectiva.
+Repite estos pasos durante 5 minutos. Se recomienda hacerlo antes de dormir y antes de enfrentar algún evento importante. Esto proporciona un equilibrio en los hemisferios cerebrales, lo que nos permite tener un pensamiento más claro y tomar decisiones de manera más efectiva.
 
-Entre otras cosas... Esto me recordó al comercial que promocionaba respirar y contar hasta 10 para tranquilizarte y no madrear a tus hijos —jajaja.
+(Esto me recuerdo al comercial que pedia respirar y contar hasta 10 🤣)
 
 ## La mejor forma de respirar
 
-Debemos respirar con ritmo de 5.5 segundos, el autor nos muestra algunos ejemplos donde hasta los cánticos religiosos en diferentes culturas tienen esta cadencia de 5.5 segundos, 5.5 para inhalar y 5.5 para exhalar.
+El autor nos muestra que es beneficioso respirar con un ritmo de 5.5 segundos. Incluso menciona ejemplos de cánticos religiosos en diferentes culturas que siguen esta cadencia de 5.5 segundos tanto para inhalar como para exhalar.
 
 > The optimum amount of air we should take in at rest per minute is 5.5 liters. The optimum breathing rate is about 5.5 breaths per minute. That's 5.5-second inhales and 5.5-second exhales. This is the perfect breath.
 
 ## Puntos negativos 👎
 
-- Mucho aprendizaje en pocas hojas
-- Me deja ganas de probar a meditar.
-- En general me dejo mucho, fácil estará en mi top 3 de este año.
+Supongo que para aquellos que ya están familiarizados con el tema, el libro no les proporcionará tanto como a aquellos que desconocen sobre el tema. Pero esto suele suceder con cualquier libro, ¿no es así?
+
 
 ## Puntos positivos 👍
 
-Supongo que para los mas conocedores del tema no sera un libro que les deje tanto como a los que desconocen.(pero eso pasa con cualquier libro, no?)
+- Mucho aprendizaje en pocas páginas.
+- Me deja con ganas de probar la meditación.
+- En general, me ha dejado mucho. Fácilmente estará en mi top 3 de este año.
 
 ## Conclusión
 
-La neta me gustaría seguir hablando de este libro y reunir amigos para empezar a hacer ejercicios de respiración... Pero siento que ya fue mucho spoiler por ahora, el libro tiene mas contenido para seguir y seguir, en conclusión:
+La neta me gustaría seguir hablando de este libro y reunir amigos para empezar a hacer ejercicios de respiración... Pero siento que ya fue mucho spoiler por ahora, el libro tiene más contenido para seguir y seguir, en conclusión:
 
-- Respirar: para extender nuestros pulmones, para activar nuestro cerebro (ver los ejercicios) y hasta extender nuestros días.
+- Respirar: para extender nuestros pulmones, para activar nuestro cerebro (ver los ejercicios) y hasta prolongar nuestros días.
 - Masticar: para recuperar los estragos que venimos arrastrando por la alimentación de comidas suaves, el punto es masticar mucho, masticar con suficiente fuerza.
-- Y definitivamente no respires usando la boca, siempre la nariz y solo por la nariz.
+- Y definitivamente no respires usando la boca, siempre por la nariz y solo por la nariz.
 
 > Lie down every day, pacify your mind, cut off thoughts and block the breath. Close your fists, inhale through your nose, and exhale through your mouth. Do not let the breathing be audible. Let it be most subtle and fine. When the breath is full, block it. The blocking (of the breath) will make the soles of your feet perspire. Count one hundred times "one and two." After blocking the breath to the extreme, exhale it subtly. Inhale a little more and block (the breath) again. If (you feel) hot, exhale with "Ho." If (you feel) cold, blow the breath out and exhale it with (the sound) "Ch'ui." If you can breathe (like this) and count to one thousand (when blocking), then you will need neither grains nor medicine.
