@@ -5,8 +5,7 @@ toc: false
 images:
   - imagenes/IMG_EBE8FEC4E24F-1.jpeg
 tags:
-  - citas
-  - motivate
+  - Motivación
 languages:
   - es
 ---

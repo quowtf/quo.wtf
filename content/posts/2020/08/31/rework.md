@@ -2,9 +2,7 @@
 title: "Rework"
 date: 2020-08-31T20:50:00-05:00
 tags:
-  - leidos 2020
-  - rework
-  - productividad
+  - Productividad
 categories:
   - Libros
 languages:

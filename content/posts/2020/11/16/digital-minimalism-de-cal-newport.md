@@ -2,9 +2,8 @@
 title: "Digital Minimalism de Cal Newport"
 date: 2020-11-16T15:18:36-06:00
 tags:
-  - minimalismo
-  - motivate
-  - leidos 2020
+  - Minimalismo
+  - Productividad
 categories:
   - Libros
 languages:

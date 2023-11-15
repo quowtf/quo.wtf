@@ -2,7 +2,7 @@
 title: "La Conquista De América Para Escépticos"
 date: 2022-09-26T19:14:25-05:00
 tags:
-  - historia
+  - Historia
   - España
   - México
 categories:

@@ -6,7 +6,9 @@ toc: false
 images:
   - imagenes/IMG_6789.jpg
 tags:
-  - leidos 2020
+  - Psicología
+  - Motivación
+  - Historia
 categories:
   - Libros
 languages:

@@ -2,9 +2,8 @@
 title: "Crkbd"
 date: 2021-01-09T13:42:20-06:00
 tags:
-  - Corne
   - crkbd
-  - v2
+  - Motivación
 categories:
   - Teclados
 languages:

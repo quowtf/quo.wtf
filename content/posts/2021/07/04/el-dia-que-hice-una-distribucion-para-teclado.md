@@ -2,9 +2,7 @@
 title: "El Día Que Hice Una Distribución Para Teclado"
 date: 2021-07-04T19:15:49-05:00
 tags:
-  - layout
-  - v1
-  - v2
+  - crkbd
 categories:
   - Teclados
 languages:

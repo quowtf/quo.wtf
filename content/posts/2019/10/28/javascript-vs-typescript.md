@@ -6,9 +6,8 @@ toc: true
 images:
   - imagenes/IMG_6283.jpg
 tags: 
-  - javascript
-  - vs
-  - typescript
+  - Development
+  - Backend
 categories:
   - Engineer
 languages:

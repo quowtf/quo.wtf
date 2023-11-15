@@ -4,8 +4,9 @@ date: 2019-02-20T16:17:29-06:00
 draft: flase
 toc: true
 images:
-tags: 
-  - datatable
+tags:
+  - Development
+  - Backend
 categories:
   - Engineer
 languages:

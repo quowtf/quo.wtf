@@ -6,8 +6,7 @@ toc: true
 images:
   - imagenes/maestro-cervecero.jpg
 tags:
-  - homebrew
-  - leidos 2020
+  - Homebrew
 categories:
   - Libros
   - Cerveza

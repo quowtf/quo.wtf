@@ -2,7 +2,7 @@
 title: "Mujer Que Sabe Latin De Rosario Castellanos"
 date: 2020-08-08T23:39:46-05:00
 tags:
-  - leidos 2020
+  - Clasicos
 categories:
   - Libros
 languages:

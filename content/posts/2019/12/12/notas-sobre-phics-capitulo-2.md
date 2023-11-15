@@ -5,6 +5,9 @@ draft: false
 toc: true
 images:
 tags:
+  - Ciencia
+  - Filosofía
+  - Selfnotes
 categories:
   - Libros
 languages:

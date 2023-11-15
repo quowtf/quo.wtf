@@ -3,7 +3,7 @@ title: "Data and Reality de William Kent"
 date: 2021-01-12T22:13:14-06:00
 tags:
   - Development
-  - leidos 2020
+  - Backend
 categories:
   - Engineer
   - Libros

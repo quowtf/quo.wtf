@@ -2,7 +2,7 @@
 title: "Programmer Dvorak"
 date: 2021-02-21T20:00:24-06:00
 tags:
-  - Dvorak
+  - crkbd
 categories:
   - Teclados
 languages:

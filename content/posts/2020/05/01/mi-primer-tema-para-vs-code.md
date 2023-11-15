@@ -3,8 +3,9 @@ title: "Mi Primer Tema Para VS Code"
 date: 2020-05-01T22:59:26-05:00
 images:
 tags:
-  - vscode
-  - metzi
+  - VS Code
+  - Development
+  - Frontend
 categories:
   - Engineer
 languages:

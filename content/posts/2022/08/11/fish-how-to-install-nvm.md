@@ -2,12 +2,10 @@
 title: "Fish How to Install nvm Node Version Manager"
 date: 2022-08-11T20:14:11-05:00
 tags:
-  - fish
-  - nvm
-  - sh
-  - iterm
-  - termlove
-  - selfnotes
+  - Development
+  - Frontend
+  - Backend
+  - Selfnotes
 categories:
   - Engineer
 languages:

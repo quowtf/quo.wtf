@@ -2,7 +2,7 @@
 title: "Historia De Dos Ciudades"
 date: 2023-02-05T11:54:19-06:00
 tags:
-  - Dickens
+  - Clasicos
 categories:
   - Libros
 languages:

@@ -2,7 +2,7 @@
 title: "Hola desde iOS"
 date: 2018-12-09T22:10:57-06:00
 tags:
-  - hola mundo
+  - Hola Mundo
 languages:
   - es
 ---
