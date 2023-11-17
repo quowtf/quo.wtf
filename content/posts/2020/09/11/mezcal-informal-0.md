@@ -1,5 +1,5 @@
 ---
-title: "Mezcal informal #0"
+title: "Mezcal informal 0"
 date: 2020-09-11T19:28:50-05:00
 tags:
   - Tepeztate
