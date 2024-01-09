@@ -3,7 +3,6 @@ title: "Datatable: howto export excel with image"
 date: 2019-02-20T16:17:29-06:00
 draft: flase
 toc: true
-images:
 tags:
   - Development
   - Backend

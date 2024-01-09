@@ -8,9 +8,7 @@ categories:
 languages:
   - es
 images:
-  -
-paragraphs:
-  - Las primeras páginas de este libro me provocaron lágrimas. Los primeros ensayos del libro son la bofetada más dolorosa que me han dado, sí que dolió, ese dolor que hace un nudo en la garganta, que no te deja hablar y sientes que te asfixia.
+paragraphs: Las primeras páginas de este libro me provocaron lágrimas. Los primeros ensayos del libro son la bofetada más dolorosa que me han dado, sí que dolió, ese dolor que hace un nudo en la garganta, que no te deja hablar y sientes que te asfixia.
 ---
 
 Hace un año leí su tesis (Sobre Cultura Femenina), en la que Rosario se autodefine como mujer no feminista. Sin duda, fue la feminista que causó un gran impacto y será una referencia del feminismo en México.

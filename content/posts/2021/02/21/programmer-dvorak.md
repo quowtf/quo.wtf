@@ -7,10 +7,8 @@ categories:
   - Teclados
 languages:
   - es
-images:
-  - imagenes/dvorak.jpg
-paragraphs:
-  - 'La vida ya es demasiado aleatoria como para escribir en un teclado con distribución :<>PY.'
+images: imagenes/dvorak.jpg
+paragraphs: 'La vida ya es demasiado aleatoria como para escribir en un teclado con distribución :<>PY.'
 ---
 
 El teclado, y principalmente la distribución QWERTY, fue diseñada sin pensar. En otras palabras, QWERTY fue resultado del azar, la posición se decidió aleatoriamente. Aunque QWERTY no es mala, tampoco está justificada de la mejor manera.

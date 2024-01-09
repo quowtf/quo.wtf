@@ -7,10 +7,8 @@ categories:
   - Teclados
 languages:
   - es
-images:
-  - "imagenes/sirenato/Screen Shot 2021-07-04 at 19.28.12.png"
-paragraphs:
-  - "Hice una distribución para teclados, está basada en Dvorak y Arensito, enfocada al español e inglés con un twist de permutaciones."
+images: "imagenes/sirenato/Screen Shot 2021-07-04 at 19.28.12.png"
+paragraphs: "Hice una distribución para teclados, está basada en Dvorak y Arensito, enfocada al español e inglés con un twist de permutaciones."
 ---
 
 Ahora les escribo con esta nueva distribución, luego de la ardua "investigación" toca probar qué tan bien o mal lo hice. Esta sería la versión 1 o tal vez la 0.1.0. Es muy cagado escribir con una nueva distribución, uno escribe como niño.

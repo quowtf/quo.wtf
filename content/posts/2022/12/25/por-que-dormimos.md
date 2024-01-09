@@ -8,10 +8,8 @@ categories:
   - Libros
 languages:
   - es
-images:
-  - imagenes/2022/12/25/por_que_dormimos.jpg
-paragraphs:
-  - Parece una pregunta simple. ¿Cuál sería tu respuesta? ¿Y qué dirías si (hipotéticamente) acabas de tener un bebé, que por primera vez descansa entre tus brazos y la enfermera te dice algo como "Su bebé está bien, todos los estudios indican que es un bebé bastante saludable... pero, tendrá lapsos de coma por más de 1 tercio de su vida, donde puede que parezca muerto, mientras permanece en este estado podría tener alucinaciones... Y no sabemos el por qué".
+images: imagenes/2022/12/25/por_que_dormimos.jpg
+paragraphs: Parece una pregunta simple. ¿Cuál sería tu respuesta? ¿Y qué dirías si (hipotéticamente) acabas de tener un bebé, que por primera vez descansa entre tus brazos y la enfermera te dice algo como "Su bebé está bien, todos los estudios indican que es un bebé bastante saludable... pero, tendrá lapsos de coma por más de 1 tercio de su vida, donde puede que parezca muerto, mientras permanece en este estado podría tener alucinaciones... Y no sabemos el por qué".
 ---
 Me parece que dormir se volvió una actividad similar a caminar, cuando debería ser como hacer ejercicio o comer bien (comer saludable)... En algún momento buscamos hacer ejercicio o comer saludable, y para esto tenemos nutriólogos, es decir, tenemos expertos en dichas áreas.
 

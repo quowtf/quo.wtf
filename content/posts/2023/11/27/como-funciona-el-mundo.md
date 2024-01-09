@@ -8,12 +8,9 @@ categories:
   - Libros
 languages:
   - es
-images:
-  - imagenes/2023/12/comofuncionaelmundo.jpg
-caption:
-  - Midjourney prompt "cómo funciona el mundo --ar 4:3"
-paragraphs: 
-  - Una muestra de la realidad y sus costos ambientales, sin decantarse a lo positivo o negativo, por lo que parece no ofrecer una propuesta resolutiva para evitar el apocalipsis climático.
+images: imagenes/2023/12/comofuncionaelmundo.jpg
+caption: Midjourney prompt "cómo funciona el mundo --ar 4:3"
+paragraphs: Una muestra de la realidad y sus costos ambientales, sin decantarse a lo positivo o negativo, por lo que parece no ofrecer una propuesta resolutiva para evitar el apocalipsis climático.
 ---
 
 Hace tiempo que buscaba leer a Vaclav Smil, específicamente "Growth", por varias razones aún no leo, ni tengo ese libro... Pero, un día mi jefe nos compartió la siguiente imagen de Rumbo Ventures sobre los libros que recomiendan para ilustrar y entender los retos que presenta el cambio climático.

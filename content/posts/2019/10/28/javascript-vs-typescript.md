@@ -3,8 +3,7 @@ title: "Javascript vs Typescript"
 date: 2019-10-28T21:12:47-06:00
 draft: false
 toc: true
-images:
-  - imagenes/IMG_6283.jpg
+images: imagenes/IMG_6283.jpg
 tags: 
   - Development
   - Backend

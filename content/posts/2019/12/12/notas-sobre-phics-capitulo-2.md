@@ -3,7 +3,6 @@ title: "Notas Sobre Phics Capitulo 2"
 date: 2019-12-12T20:09:06-06:00
 draft: false
 toc: true
-images:
 tags:
   - Ciencia
   - Filosofía

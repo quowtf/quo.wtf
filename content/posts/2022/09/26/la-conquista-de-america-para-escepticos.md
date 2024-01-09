@@ -9,10 +9,8 @@ categories:
   - Libros
 languages:
   - es
-images:
-  - imagenes/2022/09/26/la-conquista-portada.jpg
-paragraphs:
-  - En cierto momento del libro repudie todo lo que tenía que ver con mi origen español. Con el tiempo uno se ablanda...
+images: imagenes/2022/09/26/la-conquista-portada.jpg
+paragraphs: En cierto momento del libro repudie todo lo que tenía que ver con mi origen español. Con el tiempo uno se ablanda...
 ---
 
 ## Eslava y cómo ablandar

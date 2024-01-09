@@ -7,10 +7,8 @@ categories:
   - Libros
 languages:
   - es
-images:
-  - imagenes/2k21/100.jpeg
-paragraphs:
-  - "Good damn! Ya estamos en junio y no he publicado más nada. Tengo el interés de escribir con mayor constancia pero no el compromiso, evidentemente."
+images: imagenes/2k21/100.jpeg
+paragraphs: "Good damn! Ya estamos en junio y no he publicado más nada. Tengo el interés de escribir con mayor constancia pero no el compromiso, evidentemente."
 ---
 
 Este año me había quedado sin la chispa lectora, ya saben, uno siempre empieza el año haciendo ejercicio el primer mes, para después dejar de hacer todo el año, a mí me pasa pero con los libros. —jajaja

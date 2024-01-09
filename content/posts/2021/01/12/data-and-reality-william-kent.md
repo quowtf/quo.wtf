@@ -10,9 +10,7 @@ categories:
 languages:
   - es
 images:
-  - 
-paragraphs:
-  - 'Al principio estaba escéptico con este libro. Ahora que lo terminé, bien podría catalogarlo como: un libro re básico para el desarrollo de software. Muy bueno para modelar y definir tus estructuras, objetos o tablas. El libro está enfocado al tema de base de datos, pero no está limitado solo a dicho tema.'
+paragraphs: 'Al principio estaba escéptico con este libro. Ahora que lo terminé, bien podría catalogarlo como: un libro re básico para el desarrollo de software. Muy bueno para modelar y definir tus estructuras, objetos o tablas. El libro está enfocado al tema de base de datos, pero no está limitado solo a dicho tema.'
 ---
 
 {{< figure src="/imagenes/highlights/data-and-reality/121227110.png" alt="We are not modeling reality, but the way information about reality is processed, by people.(Page 53)" caption="Extracto del libro, página 53.">}}

@@ -7,10 +7,8 @@ categories:
   - Libros
 languages:
   - es
-images:
-  - imagenes/books/hijas-de-la-historia.PNG
-paragraphs:
-  - Debería ser costumbre retomar la historia entre década y década, para revisitar nuestro México desde diversas y evolucionadas perspectivas.
+images: imagenes/books/hijas-de-la-historia.PNG
+paragraphs: Debería ser costumbre retomar la historia entre década y década, para revisitar nuestro México desde diversas y evolucionadas perspectivas.
 ---
 ## En corto
 

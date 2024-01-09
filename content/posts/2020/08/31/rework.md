@@ -8,9 +8,7 @@ categories:
 languages:
   - es
 images:
-  -
-paragraphs:
-  - Qué mal que no todos los libros sean así de concisos y puntuales. Pocos autores dejan su ego y hacen un libro amplio lleno de bullshit. Rework en cada página tiene algo que aportar. Y donde no, tiene ilustraciones motivantes jaja.
+paragraphs: Qué mal que no todos los libros sean así de concisos y puntuales. Pocos autores dejan su ego y hacen un libro amplio lleno de bullshit. Rework en cada página tiene algo que aportar. Y donde no, tiene ilustraciones motivantes jaja.
 ---
 
 De los fundadores de Basecamp (37signals), Jason Fried y David Heinemeier, plantean la cultura con la que formaron su producto insignia. Mi impresión es que este libro funcionaría mejor para equipos pequeños. En algún punto comparan a una empresa grande, con jerarquías y equipos dispersos (así me la imaginé yo, realmente no describen mucho), que está llena de trámites burocráticos y cómo esto solo retrasa el trabajo.

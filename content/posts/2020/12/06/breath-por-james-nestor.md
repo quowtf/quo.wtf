@@ -8,10 +8,8 @@ categories:
   - Libros
 languages:
   - es
-images:
-  - imagenes/breath/83221339.png
-paragraphs:
-  - Sigo sorprendido de cuánto se puede ganar al hacer algo que tenemos que hacer sí o sí. Con solo respirar, pero respirar bien, podemos ganar salud y alargar nuestra vida, aunque lo segundo esté sujeto a debate.
+images: imagenes/breath/83221339.png
+paragraphs: Sigo sorprendido de cuánto se puede ganar al hacer algo que tenemos que hacer sí o sí. Con solo respirar, pero respirar bien, podemos ganar salud y alargar nuestra vida, aunque lo segundo esté sujeto a debate.
 ---
 El público al que este libro puede y debe dirigirse es al público en general, ¡a todas las personas que respiran, así de fácil!
 

@@ -8,9 +8,7 @@ categories:
 languages:
   - es
 images:
-  - 
-paragraphs:
-  - Solo para dejar registro de esta lectura que hice entre los últimos días de diciembre y el inicio de enero, es el primer libro que leo de Dickens.
+paragraphs: Solo para dejar registro de esta lectura que hice entre los últimos días de diciembre y el inicio de enero, es el primer libro que leo de Dickens.
 ---
 
 Sin ganas de hacer spoiler, al final le vi similitud a Crónica de una muerte anunciada[^1], pero me parece que Dickens se desplaya[^2] y desarrolla más esta historia, haciendo que los personajes se acerquen al lector con más personalidad y arraigo, dejando al final mayor familiaridad hacia ellos...

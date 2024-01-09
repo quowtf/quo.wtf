@@ -8,10 +8,8 @@ categories:
   - Teclados
 languages:
   - es
-images:
-  - imagenes/keyboards/corne.v2.jpg
-paragraphs:
-  - 'Después de mucho trabajo y varias quemadas de dedo; echar a perder varios leds y aprender un chingo de cosas. ¡Aquí está! Corne keyboard: completamente funcionando. Y con este teclado ahora escribo este post.'
+images: imagenes/keyboards/corne.v2.jpg
+paragraphs: 'Después de mucho trabajo y varias quemadas de dedo; echar a perder varios leds y aprender un chingo de cosas. ¡Aquí está! Corne keyboard: completamente funcionando. Y con este teclado ahora escribo este post.'
 
 ---
 

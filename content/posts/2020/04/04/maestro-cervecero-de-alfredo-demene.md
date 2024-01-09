@@ -3,8 +3,7 @@ title: "Maestro Cervecero De Alfredo Demene"
 date: 2020-04-04T20:50:16-06:00
 draft: false
 toc: true
-images:
-  - imagenes/maestro-cervecero.jpg
+images: imagenes/maestro-cervecero.jpg
 tags:
   - Homebrew
 categories:

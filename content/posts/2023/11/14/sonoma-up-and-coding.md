@@ -9,10 +9,8 @@ categories:
   - Engineer
 languages:
   - es
-images:
-  - imagenes/2023/11/my-desktop.jpeg
-paragraphs:
-  - Nunca me ha gustado hacer backup y restaurar, prefiero iniciar un setup desde cero. Mi setup es relativamente simple. Quiero escribir este post para compartir mis utilidades de día a día, así como algunos ajustes, y también para ahorrarme tiempo en futuros setups.
+images: imagenes/2023/11/my-desktop.jpeg
+paragraphs: Nunca me ha gustado hacer backup y restaurar, prefiero iniciar un setup desde cero. Mi setup es relativamente simple. Quiero escribir este post para compartir mis utilidades de día a día, así como algunos ajustes, y también para ahorrarme tiempo en futuros setups.
 ---
 
 Recientemente cambié de laptop principal, y echar a andar una compu fresca aún me parece divertido y entretenido. Allá por el 2018 me encontré con el setup de swyx en dev.to[^1]. Me pareció una buena idea para conocer herramientas, utilidades y ajustes que otros profesionales usan y que pueden ayudar en tu día a día, y claro hay cosas que pueden servir para todos, no solo para los enfocados al desarrollo de software.

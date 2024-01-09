@@ -3,8 +3,7 @@ title: "Un psicologo en un campo de concentracion"
 date: 2020-01-23T21:09:30-06:00
 draft: flase
 toc: false
-images:
-  - imagenes/IMG_6789.jpg
+images: imagenes/IMG_6789.jpg
 tags:
   - Psicología
   - Motivación

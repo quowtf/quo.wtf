@@ -8,10 +8,8 @@ categories:
   - Libros
 languages:
   - es
-images:
-  - https://cdn.hashnode.com/res/hashnode/image/upload/v1605560910103/bJU5peU6D.jpeg
-paragraphs:
-  - 'Para los amantes de las redes sociales y aquellos que desconocen la psicología ingenieril que hay detrás de ellas. A aquellos que su mayor ganancia son "likes" y comentarios, a costa del recurso que más se debe preciar: el tiempo.'
+images: https://cdn.hashnode.com/res/hashnode/image/upload/v1605560910103/bJU5peU6D.jpeg
+paragraphs: 'Para los amantes de las redes sociales y aquellos que desconocen la psicología ingenieril que hay detrás de ellas. A aquellos que su mayor ganancia son "likes" y comentarios, a costa del recurso que más se debe preciar: el tiempo.'
 ---
 
 En general, el libro me gustó. Si hipotéticamente existiera una escala del 0 al 10, donde 10 es la mejor calificación, le daría un 8. Lo califico así como alguien que previamente tenía muy poca o casi nula actividad en redes sociales. El contenido es bueno, la investigación del autor proviene de universidades y la perspectiva que obtiene al tener una participación mínima en el mundo digital social (en cuanto a redes sociales se refiere) es interesante. El autor no es un cavernícola, de hecho, tiene un blog y un podcast.

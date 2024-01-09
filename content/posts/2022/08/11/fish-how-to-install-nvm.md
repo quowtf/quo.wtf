@@ -10,10 +10,8 @@ categories:
   - Engineer
 languages:
   - en
-images:
-  - imagenes/2022/08/11/image.png
-paragraphs:
-  - "Basic guide to get up and ready nvm for fish users. TL;DR in the screenshot"
+images: imagenes/2022/08/11/image.png
+paragraphs: "Basic guide to get up and ready nvm for fish users. TL;DR in the screenshot"
 ---
 
 ## Step 1
