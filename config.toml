@@ -22,7 +22,7 @@ theme = "diurnus"
   dateformNumTime = "2006-01-02 15:04 -0700"
   homeSubtitle = "quid pro quo"
   plausibleDomain = "quo.wtf"
-  plausibleSrc = "https://plausible.quo.wtf/js/index.js"
+  plausibleSrc = "/js/script.js"
 
 [[params.social]]
   name = "twitter"
