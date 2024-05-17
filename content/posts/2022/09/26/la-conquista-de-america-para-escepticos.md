@@ -35,7 +35,7 @@ Lo que me lleva a la palabra traición.
 
 Cuántas veces he escuchado que los tlaxcaltecas son traicioneros, pero no es así, no se dejaron, lucharon, hasta que se dieron cuenta de que podían elegir un bando. ¿Romper un vínculo monarca-subdito es traición? No lo creo.
 
-De Malitzin mejor ni hablamos, que se cuese aparte. Ya lo dijo Revuelta Poo en su libro [Hijas de la Historia](/posts/2022/02/03/hijas-de-la-historia). Pero compruébelo usted mismo, lector agerrido.
+De Malitzin mejor ni hablamos, que se cuese aparte. Ya lo dijo Revuelta Poo en su libro [Hijas de la Historia](/2022/02/03/hijas-de-la-historia). Pero compruébelo usted mismo, lector agerrido.
 
 ## ¿Que nos queda? ¿Lo perdimos todo?
 

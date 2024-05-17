@@ -75,7 +75,7 @@ Mis queridos cubiamigos, el alcohol no ayuda 😭, considéralo un somnífero, d
 
 ## Conclusión
 
-No quería leer este libro por no darle un rival a [Breath Por James Nestor](/posts/2020/12/06/breath-por-james-nestor), ahora tengo dos muy buenos libros y ambos se enfocan en actividades muy comunes, cotidianas y que a veces pasan desapercibidas.
-En [Breath](/posts/2020/12/06/breath-por-james-nestor) hay una técnica de respiración para antes de dormir, lo que sería un buen Apéndice B para este libro.
+No quería leer este libro por no darle un rival a [Breath Por James Nestor](/2020/12/06/breath-por-james-nestor), ahora tengo dos muy buenos libros y ambos se enfocan en actividades muy comunes, cotidianas y que a veces pasan desapercibidas.
+En [Breath](/2020/12/06/breath-por-james-nestor) hay una técnica de respiración para antes de dormir, lo que sería un buen Apéndice B para este libro.
 
 Sin duda "¿Por qué dormimos?" fue el mejor libro en su categoría que leí este año.

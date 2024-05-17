@@ -101,7 +101,7 @@ Las extensiones que realmente necesito para iniciar a trabajar son:
 
 - IntelliCode
 - Material Icon Theme
-- [**Metzi**: un tema que creé basado en contraste medio a alto y poca gama de colores, kiss.](/posts/2020/05/01/mi-primer-tema-para-vs-code)
+- [**Metzi**: un tema que creé basado en contraste medio a alto y poca gama de colores, kiss.](/2020/05/01/mi-primer-tema-para-vs-code)
 
 ## Conclusión
 
