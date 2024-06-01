@@ -7,7 +7,7 @@ tags:
   - Development
   - Frontend
 categories:
-  - Engineer
+  - Engineering
 languages:
   - es
 ---

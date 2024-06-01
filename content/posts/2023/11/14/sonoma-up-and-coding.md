@@ -6,7 +6,7 @@ tags:
   - Setup
   - Selfnotes
 categories:
-  - Engineer
+  - Engineering
 languages:
   - es
 images: imagenes/2023/11/my-desktop.jpeg
