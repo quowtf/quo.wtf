@@ -8,7 +8,7 @@ tags:
 categories:
   - Engineering
 languages:
-  - English
+  - en
 images: imagenes/2024/06/tf-hello-world.png
 caption: Midjourney prompt "Terraform a world of DevOps CI and CD"
 paragraphs: Long ago, I wanted to dive into the world of Terraform, and finally, I did. Here are my notes on this "hello world" experience.
