@@ -7,9 +7,6 @@ theme = "diurnus"
 [permalinks]
   posts = '/:year/:month/:day/:title'
 
-[author]
-  name = "RE"
-
 [taxonomies]
   tag = "tags"
   category = "categories"
