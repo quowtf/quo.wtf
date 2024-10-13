@@ -22,12 +22,12 @@ theme = "diurnus"
   plausibleSrc = "/js/script.js"
 
 [[params.social]]
-  name = "twitter"
-  url = "https://twitter.com/quowtf"
+  name = "AltKeyCLub"
+  url = "https://altkey.club"
 
 [[params.social]]
   name = "instagram"
-  url = "https://instagram.com/quowtf"
+  url = "https://instagram.com/roberto.lunas"
 
 [[params.social]]
   name = "github"

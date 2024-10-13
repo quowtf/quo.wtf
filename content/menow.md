@@ -12,4 +12,4 @@ Or traveling 🛫
 
 Hopefully both
 
-If you are not a bot, dont be shy and [say _hola_](https://sayho.la/rob)
+Don't forget to [**say _Hola_**](https://sayho.la/to/rob)
