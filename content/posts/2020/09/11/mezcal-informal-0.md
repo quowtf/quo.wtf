@@ -4,7 +4,7 @@ date: 2020-09-11T19:28:50-05:00
 tags:
   - Tepeztate
 categories:
-  - Mezcal
+  - Radar
 languages:
   - es
 images: imagenes/mezcal/0.jpg

@@ -7,7 +7,7 @@ tags:
   - Backend
   - Selfnotes
 categories:
-  - Engineering
+  - Ingenieria
 languages:
   - en
 images: imagenes/2022/08/11/image.png

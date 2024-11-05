@@ -8,7 +8,6 @@ tags:
   - Homebrew
 categories:
   - Libros
-  - Cerveza
 languages:
   - es
 ---

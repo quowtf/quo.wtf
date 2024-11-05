@@ -6,7 +6,7 @@ tags:
   - DevOps
   - Terraform
 categories:
-  - Engineering
+  - Ingenieria
 languages:
   - en
 images: imagenes/2024/06/tf-hello-world.png
