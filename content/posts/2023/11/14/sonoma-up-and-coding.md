@@ -4,7 +4,6 @@ date: 2023-11-14T20:55:07-06:00
 tags:
   - MacOS
   - Setup
-  - Selfnotes
 categories:
   - Ingenieria
 languages:

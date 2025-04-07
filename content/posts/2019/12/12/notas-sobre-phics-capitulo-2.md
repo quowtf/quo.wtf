@@ -6,7 +6,6 @@ toc: true
 tags:
   - Ciencia
   - Filosofía
-  - Selfnotes
 categories:
   - Libros
 languages:

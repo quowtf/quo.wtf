@@ -5,7 +5,6 @@ tags:
   - Development
   - Frontend
   - Backend
-  - Selfnotes
 categories:
   - Ingenieria
 languages:

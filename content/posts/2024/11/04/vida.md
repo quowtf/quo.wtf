@@ -2,9 +2,9 @@
 title: "Vida"
 date: 2024-11-04T17:55:59-06:00
 tags:
-  - Selfnotes
+  - Ensayos
 categories:
-  - 03:00am
+  - Ensayos
 languages:
   - es
 images: /imagenes/2024/11/vida.png
