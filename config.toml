@@ -27,7 +27,7 @@ theme = "diurnus"
 
 [[params.social]]
   name = "instagram"
-  url = "https://instagram.com/roberto.lunas"
+  url = "https://instagram.com/rovsmx"
 
 [[params.social]]
   name = "github"
@@ -38,11 +38,6 @@ theme = "diurnus"
     name = "Posts"
     url = "posts/"
     weight = 10
-
-  [[menu.main]]
-    name = "MeNow"
-    url = "menow/"
-    weight = 20
 
 [markup.goldmark.renderer]
   unsafe= true
