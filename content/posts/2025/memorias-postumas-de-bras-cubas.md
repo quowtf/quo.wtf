@@ -36,13 +36,13 @@ Me gustaría escuchar un debate:
 Sobre seguridad:
 > No era así mi sentimiento; éste, como no tenía en sí la misma fuerza, no tenía tampoco la misma seguridad en el resultado; y de ahí la mayor aflicción, el mayor desencanto, la mayor tristeza.
 
-[Sobre felicidad](/2019/11/16/felicidad-samuel-johnson):
+[Sobre felicidad](/2019/11/06/felicidad-samuel-johnson):
 > Pero la alegría que se lleva al alma de los enfermos y de los pobres es recompensa de cierto valor; y no me digáis que es negativa, porque sólo la reciba el favorecido. No, yo la recibía de modo reflejo, y aún así era grande, tan grande que me daba una idea de mí mismo.
 
 ## Nota
 
 Sigo descubriendo cómo se genera una prosa compleja, entretenida y reflexiva.
 
-Sobre finales inevitables ya había leído antes ([Historias de dos ciudades](/2023/02/Historia-de-dos-ciudades) y *Crónica de una muerte anunciada*[^1]); aun así, el buen Brás Cubas se queda como favorito entre los tres.
+Sobre finales inevitables ya había leído antes ([Historias de dos ciudades](/2023/02/05/Historia-de-dos-ciudades) y *Crónica de una muerte anunciada*[^1]); aun así, el buen Brás Cubas se queda como favorito entre los tres.
 
 [^1]: Segundo libro de Gabriel García Márquez sin post en este blog.
