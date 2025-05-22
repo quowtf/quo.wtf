@@ -3,6 +3,7 @@ languageCode = "es-MX"
 defaultContentLanguage = "en"
 title = "quo.wtf"
 theme = "diurnus"
+removePathAccents = true
 
 [permalinks]
   posts = '/:year/:month/:day/:title'
@@ -18,20 +19,18 @@ theme = "diurnus"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   homeSubtitle = "quid pro quo"
-  plausibleDomain = "quo.wtf"
-  plausibleSrc = "/js/script.js"
-
-[[params.social]]
-  name = "AltKeyCLub"
-  url = "https://altkey.club"
 
 [[params.social]]
   name = "instagram"
-  url = "https://instagram.com/rovsmx"
+  url = "https://instagram.com/lunareswww"
 
 [[params.social]]
   name = "github"
   url = "https://github.com/quowtf"
+
+[[params.social]]
+  name = "AltKeyCLub"
+  url = "https://altkey.club"
 
 [menu]
   [[menu.main]]
