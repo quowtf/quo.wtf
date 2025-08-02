@@ -1,7 +1,7 @@
 baseURL = "https://quo.wtf"
 languageCode = "es-MX"
 defaultContentLanguage = "en"
-title = "quo.wtf"
+title = "Luna R. E. S."
 theme = "diurnus"
 removePathAccents = true
 
@@ -18,7 +18,6 @@ removePathAccents = true
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  homeSubtitle = "quid pro quo"
 
 [[params.social]]
   name = "instagram"
